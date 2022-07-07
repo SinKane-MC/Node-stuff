@@ -10,7 +10,7 @@
   "author": "Wade Grimm",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "random-greetings": "^1.0.5",
     "select-random-file": "^1.1.0"
   },
